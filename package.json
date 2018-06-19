@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "natours course project demo site",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qodist/natours.git"
+  },
+  "author": "aj rey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qodist/natours/issues"
+  },
+  "homepage": "https://github.com/qodist/natours#readme",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
